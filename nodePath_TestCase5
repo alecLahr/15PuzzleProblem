@@ -1,0 +1,64 @@
+Node Index: 0
+Move Direction: N/A
+[[ 1  6  2  3]
+ [ 9  5  7  4]
+ [ 0 10 11  8]
+ [13 14 15 12]]
+
+Node Index: 1
+Move Direction: U
+[[ 1  6  2  3]
+ [ 0  5  7  4]
+ [ 9 10 11  8]
+ [13 14 15 12]]
+
+Node Index: 5
+Move Direction: R
+[[ 1  6  2  3]
+ [ 5  0  7  4]
+ [ 9 10 11  8]
+ [13 14 15 12]]
+
+Node Index: 11
+Move Direction: U
+[[ 1  0  2  3]
+ [ 5  6  7  4]
+ [ 9 10 11  8]
+ [13 14 15 12]]
+
+Node Index: 27
+Move Direction: R
+[[ 1  2  0  3]
+ [ 5  6  7  4]
+ [ 9 10 11  8]
+ [13 14 15 12]]
+
+Node Index: 63
+Move Direction: R
+[[ 1  2  3  0]
+ [ 5  6  7  4]
+ [ 9 10 11  8]
+ [13 14 15 12]]
+
+Node Index: 139
+Move Direction: D
+[[ 1  2  3  4]
+ [ 5  6  7  0]
+ [ 9 10 11  8]
+ [13 14 15 12]]
+
+Node Index: 295
+Move Direction: D
+[[ 1  2  3  4]
+ [ 5  6  7  8]
+ [ 9 10 11  0]
+ [13 14 15 12]]
+
+Node Index: 616
+Move Direction: D
+[[ 1  2  3  4]
+ [ 5  6  7  8]
+ [ 9 10 11 12]
+ [13 14 15  0]]
+
+
